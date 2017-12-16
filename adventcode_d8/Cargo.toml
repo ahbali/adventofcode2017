@@ -1,0 +1,8 @@
+[package]
+name = "adventcode_d8"
+version = "0.1.0"
+authors = ["kaizoku"]
+
+[dependencies]
+regex = "0.2"
+lazy_static = "1.0.0"
